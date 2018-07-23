@@ -2705,7 +2705,7 @@ province;red;green;blue;x;x
 2703;140;140;100;Urdic Camp;x
 2704;140;140;140;Hêmashay;x
 2705;150;100;100;Masna Kleà;x
-2706;150;150;100;Shayx
+2706;150;150;100;Shay;x
 2707;150;150;150;Shayakau;x
 2708;160;100;100;Unvirnay;x
 2709;160;160;140;Ohanpohak;x
@@ -2842,3 +2842,7 @@ province;red;green;blue;x;x
 2840;132;205;69;Uadar;x
 2841;181;205;69;Tarikan;x
 2842;220;205;69;Sak Rhaw;x
+2843;220;205;15;Esjanar;x
+2844;220;205;122;Tarlai-Amar;x
+2845;220;205;183;Anhabhan;x
+2846;220;205;208;Tezaran;x
