@@ -2688,10 +2688,14 @@
  PROV2870: "Cabe"
  PROV2871: "Daenost"
  PROV2872: "Lorilad"
- PROV2873
- PROV2874
- PROV2875
- PROV2876
- PROV2877
- PROV2878
- PROV2879
+ PROV2873: "Alkarondas"
+ PROV2874: "Fanuilond"
+ PROV2875: "Gaersûl"
+ PROV2876: "Lalornen"
+ PROV2877: "Lanrain"
+ PROV2878: "Grey Wood"
+ PROV2879: "Lond Cobas"
+ PROV2880: "Serelond"
+ PROV2881: "Lond Rhaen"
+ PROV2882: "Eryn Arar"
+ PROV2883: "Iaurost"
